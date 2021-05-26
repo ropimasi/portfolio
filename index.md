@@ -43,8 +43,8 @@ My long-term goal: working in software project architecture in the data science,
   + Shell Script
   + Delphi _(object pascal)_  
   
-### Soft-skills (under development...)
-* A...
+### Soft-skills
+* A... _(still writing this description)_
   + a1...  
 * B...
   + B1...
@@ -57,8 +57,14 @@ My long-term goal: working in software project architecture in the data science,
 ## PROJECTS
 They are **organized in pairs** of _Project_ and _Repository_, in such a way that you can follow the evolution line of each project-repository.  
   
+### ALGAFOOD
+_Java Web REST API_: Java, SQL, MySQL, Spring Boot, Spring Framework, Spring Data JPA, Hibernate... _(still writing this description)_.  
+  
+### DRYVE CHALLENGE 1
+_Java Web REST API_: Java, SQL, PostgreSQL, Spring Boot, Spring Framework, Spring Data JPA, Hibernate... _(still writing this description)_.  
+  
 ### JWFS
-_Java Web Full Stack_: Java, JSP, HTML, CSS, JQuery, SQL, PostgreSQL... under development.  
+_Java Web Full Stack_: Java, JSP, HTML, CSS, JQuery, SQL, PostgreSQL... _(still writing this description)_.  
   
 ### CriptoCorePack
 _Cryptography Tools Package_: Java.  
@@ -77,12 +83,12 @@ _Save As a Matrix or Backp_: Shell Script.
   
   &nbsp;  
   
-## PROFESSIONAL EXPIRIENCES (under development...)
-A...  
+## PROFESSIONAL EXPIRIENCES
+A... _(still writing this description)_.  
   
   &nbsp;  
   
 ## CONTACTS
-Linktree, Linkedin, Webpage, Twitter, Instagram, Email, Phone... (under development...)  
+Linktree, Linkedin, Webpage, Twitter, Instagram, Email, Phone... _(still writing this description)_.  
   
   
