@@ -43,18 +43,6 @@ It is **important to highlight**, despite well-defined goals, I have a professio
   
   &nbsp;  
   
-### SOFT-SKILLS
-* A... _(still writing this description)_
-  + a1...  
-* B...
-  + B1...
-  + B2...  
-* C...
-* D...  
-  
-  &nbsp;  
-  &nbsp;  
-  
 ## PROJECTS
 They are **organized in pairs** of _Project_ and _Repository_, in such a way that you can follow the evolution line of each project-repository.  
   
@@ -106,12 +94,6 @@ _All Files Renaming_: Python.
 _Save As a Matrix or Backp_: Shell Script.  
 + [Project all_files_renaming](https://github.com/users/ROPIMASI/projects/7)
 + [Repository all_files_renaming](https://github.com/ROPIMASI/SAMB)  
-  
-  &nbsp;  
-  &nbsp;  
-  
-## PROFESSIONAL EXPIRIENCES
-A... _(still writing this description)_.  
   
   &nbsp;  
   &nbsp;  
