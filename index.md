@@ -29,7 +29,7 @@ My long-term goal: working in software project architecture in the data science,
   + Firebird  
 * HTML
 * CSS
-* ECMASCRIPT _popularly JS_
+* ECMASCRIPT _(popularly JS)_
   + Libs/Frameworks
     - JQuery
     - Bootstrap  
@@ -41,7 +41,7 @@ My long-term goal: working in software project architecture in the data science,
 * OTHERS
   + C/C++
   + Shell Script
-  + Delphi _Object Pascal_  
+  + Delphi _(object pascal)_  
   
 ### Soft-skills (under development...)
 * A...
@@ -55,7 +55,7 @@ My long-term goal: working in software project architecture in the data science,
   &nbsp;  
   
 ## PROJECTS
-They are organized in pairs of _Project_ and _Repository_, in such a way that you can follow the evolution line of each project-repository.  
+They are **organized in pairs** of _Project_ and _Repository_, in such a way that you can follow the evolution line of each project-repository.  
   
 ### JWFS
 _Java Web Full Stack_: Java, JSP, HTML, CSS, JQuery, SQL, PostgreSQL... under development.  
