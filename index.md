@@ -4,10 +4,9 @@ Graduated in Computer Science and Technician in Administration, I took advantage
   
 I developed considerable administrative vision, teamwork skills and leadership, which added to the knowledge in Computer Science broaden my range of action and enhance my results, adding value to the IT project team in which I will be part of.  
   
-It is **important to highlight**, despite well-defined goals, I have a professional profile of relative flexibility, **never ruling out other segments** of computing, such as, database, operating systems, **_RPA_**, **_IoT_**, **_AI_**, among others.  
-> Note:
-> _RPA_: Robotic Process Automation
-> _IoT_: Internet of Things
+It is **important to highlight**, despite well-defined goals, I have a professional profile of relative flexibility, **never ruling out other segments** of computing, such as, database, operating systems, **_RPA_**, **_IoT_**, **_AI_**, among others.
+> _RPA_: Robotic Process Automation  
+> _IoT_: Internet of Things  
 > _AI_: Artificial Intelligence  
   
 ### GOALS
