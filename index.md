@@ -30,19 +30,18 @@ It is **important to highlight**, despite well-defined goals, I have a professio
   + Firebird  
 * HTML
 * CSS
-* ECMASCRIPT _(popularly JS)_
+* ECMASCRIPT _(basics)_
   + Libs/Frameworks
-    - JQuery
-    - Bootstrap  
-* PYTHON
+    - JQuery _(basics)_
+    - Bootstrap _(basics)_  
+* PYTHON _(basics)_
   + Libs/Frameworks
-    - Pandas
-	- NumPy
-	- MatplotLib  
+    - Pandas _(basics)_
+    - NumPy _(basics)_
+    - MatplotLib _(basics)_  
 * OTHERS
-  + C/C++
-  + Shell Script
-  + Delphi _(object pascal)_  
+  + Shell Script _(basics)_
+  + Delphi _(object pascal basics)_  
   
   &nbsp;  
   
